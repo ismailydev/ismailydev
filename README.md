@@ -200,7 +200,7 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
     </table>
 </div>
 </br>
-<details width="50%" open>
+<details width="50%">
     <summary>💻 GitHub Contribution Graph</summary>
     <br />
     <p><img alt="Ismail's Activity Graph"
