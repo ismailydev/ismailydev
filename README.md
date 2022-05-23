@@ -29,64 +29,12 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ismailydev&show_icons=true&title_color=03AAB4&icon_color=03AAB4&text_color=AFE4E8&bg_color=0d1117"> -->
 
-  <!-- PROJECTS -->
-<h2 align="center" color="white">Projects (More coming soon...)</h2>
-<div align="center">
-  <table>
-      <tr>
-        <td class="1" width="50%">
-          <h3 align="center">Get a Star</h3>
-          <p align="center">
-            <a href="https://github.com/ismailydev/NASA-API" target="_blank" rel="noreferrer"> <img  src="https://github.com/ismailydev/ismailydev/blob/main/asset/NASA_POD.gif" alt="NASA_POD"/></a>
-		  <span> <a href="https://github.com/ismailydev/NASA-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>
-	<a href="https://nasa-api-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=03AAB4" alt="Live Site" height="25px" ></a></span>
-            <p align="center">
-		    <strong>HTML5 CSS3 JavaScript </strong><br>API app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
-          </p>
-        </td>
-       <td class="2" width="50%">
-          <h3 align="center">Personal Portfolio</h3>
-          <p align="center">
-            <a href="https://github.com/ismailydev/portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/ismailydev/ismailydev/blob/main/asset/personal_portfolio.gif" alt="Portfolio"/></a>
-            <span> <a href="https://github.com/ismailydev/portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>
-	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=03AAB4" alt="Live Site" height="25px"></a> </span>
-            <p align="center">
-		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td class="3" width="50%">
-          <h3 align="center">My calculator</h3>
-          <p align="center">
-            <a href="https://github.com/ismailydev/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"> <img  src="https://github.com/ismailydev/ismailydev/blob/main/asset/my_personal_calculator.gif" alt="NASA_POD"/></a>
-		  <span> <a href="https://github.com/ismailydev/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>
-	<a href="https://my-standard-calculator.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=03AAB4" alt="Live Site" height="25px"></a></span>
-            <p align="center">
-               <strong>HTML5 CSS3 JavaScript </strong><br>Basic calculator with my very first time using OOP skills.</p>
-          </p>
-        </td>
-       <td class="4" width="50%">
-          <h3 align="center">Food Checker</h3>
-          <p align="center">
-            <a href="https://github.com/ismailydev/Food-checker" target="_blank" rel="noreferrer"> <img src="https://github.com/ismailydev/ismailydev/blob/main/asset/food_picker.gif" alt="Portfolio"/></a>
-            <span> <a href="https://github.com/ismailydev/Food-checker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>
-	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=03AAB4" alt="Live Site" height="25px"></a> </span>
-            <p align="center">
-		   <strong>HTML5 CSS3 JavaScript </strong><br> Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
-          </p>
-        </td>
-      </tr>
-
-  </table>
-</div>
-
 <h2 align="center" color="white">Languages & Tools</h2>
 
 <div align="center">
 <table>
 	<tr>
-		<td valign="top" width="20%">
+		<td valign="top" width="33%">
 			<br>
 			<div align="center" >
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
@@ -125,7 +73,7 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 </a>
 			</div>
 		</td>		
-		<td valign="top" width="20%">
+		<td valign="top" width="33%">
 			<br>
 			 <div align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -155,7 +103,7 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 </a>
 			</div>
 		</td>
-        <td valign="top" width="20%">
+        <td valign="top" width="33%">
 			<br>
 			 <div align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
