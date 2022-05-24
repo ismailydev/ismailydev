@@ -35,12 +35,12 @@
 <p align="center">
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=ismailydev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=03AAB4&border=03AAB4&dates=648688&fire=03AAB4&currStreakLabel=03AAB4&currStreakNum=03AAB4&sideLabels=AFE4E8&sideNums=AFE4E8">
-
+</p>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=ismailydev&show_icons=true&title_color=03AAB4&icon_color=03AAB4&text_color=AFE4E8&bg_color=0d1117"> -->
 
 <h2 align="center" color="white">Languages & Tools</h2>
 
-<div align="center">
+<div align="center" width="100%">
     <table>
         <tr>
             <td valign="top" width="33%">
