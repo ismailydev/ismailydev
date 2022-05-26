@@ -8,8 +8,10 @@
         src="https://readme-typing-svg.herokuapp.com?font=Sora&duration=3000&color=03AAB4&background=FFFFFF00&center=true&lines=Software+Engineer;UI%2FUX+Designer;Design+and+Development">
 </div>
 <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
-<h4 align="center">I'm Ismail, a
-    full-stack developer based in Addis Ababa, Ethiopia.</h4> <br>Currently
+<h3 align="center">I'm Ismail, a
+    full-stack developer based in Addis Ababa, Ethiopia.</h3> <br>
+    </p>
+    <p align="center">Currently
 <!-- <p>learning <strong>Flutter</strong> &</p> -->
 building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Engineering student at HiLCoE.
 </p>
