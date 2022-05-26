@@ -7,10 +7,11 @@
     <img
         src="https://readme-typing-svg.herokuapp.com?font=Sora&duration=3000&color=03AAB4&background=FFFFFF00&center=true&lines=Software+Engineer;UI%2FUX+Designer;Design+and+Development">
 </div>
-<p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Ismail, a
-    full-stack developer based in Addis Ababa, Ethiopia. <br>Currently
-    <!-- <p>learning <strong>Flutter</strong> &</p> -->
-    building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Engineering student at HiLCoE.
+<p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+<h4 align="center">I'm Ismail, a
+    full-stack developer based in Addis Ababa, Ethiopia.</h4> <br>Currently
+<!-- <p>learning <strong>Flutter</strong> &</p> -->
+building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Engineering student at HiLCoE.
 </p>
 </div>
 
@@ -36,12 +37,12 @@
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=ismailydev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=03AAB4&border=03AAB4&dates=648688&fire=03AAB4&currStreakLabel=03AAB4&currStreakNum=03AAB4&sideLabels=AFE4E8&sideNums=AFE4E8">
 </p>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ismailydev&show_icons=true&title_color=03AAB4&icon_color=03AAB4&text_color=AFE4E8&bg_color=0d1117"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ismailydev&show_icons=true&title_color=03AAB4&icon_color=03AAB4&text_color=AFE4E8&bg_color=0d1117"> -->
 
 <h2 align="center" color="white">Languages & Tools</h2>
 
 <div align="center" width="100%">
-    <table>
+    <table bgcolor="#f4f4f4">
         <tr>
             <td valign="top" width="33%">
                 <br>
@@ -68,10 +69,10 @@
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                             alt="react" width="50" height="50" />
                     </a>
-                    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
+                    <!-- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                             alt="redux" width="50" height="50" />
-                    </a>
+                    </a> -->
                     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
                             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50"
                             height="50" />
@@ -96,15 +97,15 @@
                         <br>
                         <br>
                     </a>
-                    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
+                    <!-- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
                             src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" />
-                    </a>
-                    <br>
-                    <br>
-                    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+                    </a> -->
+                    <!-- <br> -->
+                    <!-- <br> -->
+                    <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
                             src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50"
                             height="50" />
-                    </a>
+                    </a> -->
                 </div>
             </td>
             <td valign="top" width="33%">
@@ -118,14 +119,14 @@
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                             alt="express" width="50" height="50" />
                     </a>
-                    <br>
-                    <br>
-                    <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img
+                    <!-- <br> -->
+                    <!-- <br> -->
+                    <!-- <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img
                             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50"
                             height="50" />
-                    </a>
+                    </a> -->
                     <br>
-                    <br>
+                    <!-- <br> -->
                     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                             alt="mongodb" width="50" height="50" />
@@ -196,6 +197,7 @@
 <details width="50%" open>
     <summary>💻 GitHub Contribution Graph</summary>
     <br />
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph"
-            src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ismailydev&bg_color=0d1117&color=AFE4E8&line=03AAB4&point=F4F4F4&hide_border=false" /></a>
+    <p><img alt="DenverCoder1's Activity Graph"
+            src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ismailydev&bg_color=0d1117&color=AFE4E8&line=03AAB4&point=F4F4F4&hide_border=false" />
+    </p>
 </details>
