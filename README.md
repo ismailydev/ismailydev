@@ -7,7 +7,8 @@
     <img
         src="https://readme-typing-svg.herokuapp.com?font=Sora&duration=3000&color=03AAB4&background=FFFFFF00&center=true&lines=Software+Engineer;UI%2FUX+Designer;Design+and+Development">
 </div>
-<p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+<!-- <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> -->
+<p align="center">Hi 👋
 <h3 align="center">I'm Ismail, a
     full-stack developer based in Addis Ababa, Ethiopia.</h3> <br>
     </p>
@@ -35,6 +36,9 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 <!-- <p align="center"> Check out <a href="https://ismailydev.netlify.app">my portfolio</a> for more information!</p> -->
 
 <br>
+<p align="center" dir="auto">
+  <!-- <a href="https://www.codewars.com/users/ismail23y" rel="nofollow"><img src="https://www.codewars.com/users/ismail23y/badges/large" style="max-width: 100%;"></a> -->
+</p>
 <p align="center">
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=ismailydev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=03AAB4&border=03AAB4&dates=648688&fire=03AAB4&currStreakLabel=03AAB4&currStreakNum=03AAB4&sideLabels=AFE4E8&sideNums=AFE4E8">
@@ -199,7 +203,7 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 <details width="50%" open>
     <summary>💻 GitHub Contribution Graph</summary>
     <br />
-    <p><img alt="DenverCoder1's Activity Graph"
+    <p><img alt="Ismail's Activity Graph"
             src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ismailydev&bg_color=0d1117&color=AFE4E8&line=03AAB4&point=F4F4F4&hide_border=false" />
     </p>
 </details>
