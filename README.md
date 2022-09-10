@@ -37,7 +37,7 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 
 <br>
 <p align="center" dir="auto">
-  <!-- <a href="https://www.codewars.com/users/ismail23y" rel="nofollow"><img src="https://www.codewars.com/users/ismail23y/badges/large" style="max-width: 100%;"></a> -->
+  <a href="https://www.codewars.com/users/ismailydev" rel="nofollow"><img src="https://www.codewars.com/users/ismail23y/badges/large" style="max-width: 100%;"></a>
 </p>
 <p align="center">
     <img
@@ -108,10 +108,10 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
                     </a> -->
                     <!-- <br> -->
                     <!-- <br> -->
-                    <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+                    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
                             src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50"
                             height="50" />
-                    </a> -->
+                    </a>
                 </div>
             </td>
             <td valign="top" width="33%">
@@ -156,10 +156,6 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
                             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50"
                             height="50" />
                     </a>
-                    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-                            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50"
-                            height="50" />
-                    </a>
                 </div>
             </td>
             <td valign="top" width="33%">
@@ -181,6 +177,10 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
                     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
                             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
                             width="50" height="50" />
+                    </a>
+                    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
+                            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50"
+                            height="50" />
                     </a>
                     <br>
                     <br>
