@@ -37,7 +37,7 @@ building <strong>MERN</strong> stack web apps at 100Devs and MSc in Software Eng
 
 <br>
 <p align="center" dir="auto">
-  <a href="https://www.codewars.com/users/ismailydev/badges/large" rel="nofollow"><img src="https://www.codewars.com/users/ismail23y/badges/large" style="max-width: 100%;"></a>
+  <a href="https://www.codewars.com/users/ismailydev" rel="nofollow"><img src="https://www.codewars.com/users/ismailydev/badges/large" style="max-width: 100%;"></a>
 </p>
 <p align="center">
     <img
